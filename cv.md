@@ -30,7 +30,7 @@ const func = (num) => {
 ### Education
 
 - Bachelor of Economics, Belarusian State Economic University, Minsk, 2015-2019
-- Master of Management Science, Vistula University, Warsaw, 2019 - 2021
+- Master of Management Science, Vistula University, Warsaw, 2019 - to present
 
 ### Languages:
 
